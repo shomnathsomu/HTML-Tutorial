@@ -1,0 +1,7 @@
+# What is HTML?
+-- > HTML stands for Hyper Text Markup Language.
+
+# Three awesome technologies
+1. HTML - The structure of a web page
+2. CSS - The styling of a web page
+3. JavaScript - Making a web page interactive
